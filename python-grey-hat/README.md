@@ -11,7 +11,7 @@
 
 ## 参考资料
 1. [GitHub, fork - CoiroTomas - GrayHatPython3-x64](https://github.com/LittleSec/GrayHatPython3-x64)
-2. [<Gray Hat Python>书中纠错，以及每节的代码实现]https://github.com/inkydragon/GHP-PyDbg
+2. [<Gray Hat Python>书中纠错，以及每节的代码实现](https://github.com/inkydragon/GHP-PyDbg)
     + 这个repo里还提到了一些链接也值得参考，issue有非官方翻译版书的链接
 3. [MSDN, 微软开发者网站](https://msdn.microsoft.com/zh-cn/)
 4. [英文电子书](https://github.com/mehransab101/Grey-Hat-Python)
